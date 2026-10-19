@@ -49,4 +49,3 @@ Choose **No sign-in**, leave request headers empty, and enable the connector in 
 [Report a bug](https://github.com/trenchscopeapp/trenchscope/issues) · [Read the contributing guide](https://github.com/trenchscopeapp/trenchscope/blob/main/CONTRIBUTING.md) · [Report a security issue](https://github.com/trenchscopeapp/trenchscope/security/policy)
 
 <sub>Early software. Market data and model analysis can be incomplete or wrong. Paper and live trading are experimental. Not financial advice. Built from <a href="https://github.com/dexterm-xyz/dexterm">dexterm</a>.</sub>
-

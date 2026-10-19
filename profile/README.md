@@ -42,10 +42,11 @@ MCP server URL: https://trenchscope-mcp-production.up.railway.app/mcp
 
 Choose **No sign-in**, leave request headers empty, and enable the connector in a conversation. Try: **Show trending Solana tokens.** Public market data needs no login or API key.
 
-[Connector details](https://github.com/trenchscopeapp/trenchscope#claudeai-connector-and-interactive-views)
+[Browse the source and documentation](https://github.com/trenchscopeapp/trenchscope)
 
 ### Build with us
 
 [Report a bug](https://github.com/trenchscopeapp/trenchscope/issues) · [Read the contributing guide](https://github.com/trenchscopeapp/trenchscope/blob/main/CONTRIBUTING.md) · [Report a security issue](https://github.com/trenchscopeapp/trenchscope/security/policy)
 
 <sub>Early software. Market data and model analysis can be incomplete or wrong. Paper and live trading are experimental. Not financial advice. Built from <a href="https://github.com/dexterm-xyz/dexterm">dexterm</a>.</sub>
+
